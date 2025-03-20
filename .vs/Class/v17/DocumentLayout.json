@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git-test-folder\\Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E702BC7C-AB19-489C-8972-23B1683B51B2}|Project1\\Project1.vcxproj|E:\\git-test-folder\\Class\\Project1\\donut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E702BC7C-AB19-489C-8972-23B1683B51B2}|Project1\\Project1.vcxproj|solutionrelative:Project1\\donut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "donut.cpp",
+              "DocumentMoniker": "E:\\git-test-folder\\Class\\Project1\\donut.cpp",
+              "RelativeDocumentMoniker": "Project1\\donut.cpp",
+              "ToolTip": "E:\\git-test-folder\\Class\\Project1\\donut.cpp",
+              "RelativeToolTip": "Project1\\donut.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T05:29:45.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
