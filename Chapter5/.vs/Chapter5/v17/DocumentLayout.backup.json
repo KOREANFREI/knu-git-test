@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git-2025-04-03\\Chapter5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E481A02-6FED-4E19-8018-7B5A4091EAD0}|Chapter5\\Chapter5.vcxproj|E:\\git-2025-04-03\\Chapter5\\Chapter5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E481A02-6FED-4E19-8018-7B5A4091EAD0}|Chapter5\\Chapter5.vcxproj|solutionrelative:Chapter5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E558A9-7AD7-4ACA-9A5A-C3CEA689D949}|ch5-3\\ch5-3.vcxproj|E:\\git-2025-04-03\\Chapter5\\ch5-3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32E558A9-7AD7-4ACA-9A5A-C3CEA689D949}|ch5-3\\ch5-3.vcxproj|solutionrelative:ch5-3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB73F121-5F9A-427D-9E31-F1B527A929FD}|ch5-2\\ch5-2.vcxproj|E:\\git-2025-04-03\\Chapter5\\ch5-2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB73F121-5F9A-427D-9E31-F1B527A929FD}|ch5-2\\ch5-2.vcxproj|solutionrelative:ch5-2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 298,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 273,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\git-2025-04-03\\Chapter5\\Chapter5\\main.cpp",
+              "RelativeDocumentMoniker": "Chapter5\\main.cpp",
+              "ToolTip": "E:\\git-2025-04-03\\Chapter5\\Chapter5\\main.cpp*",
+              "RelativeToolTip": "Chapter5\\main.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T04:37:58.261Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\git-2025-04-03\\Chapter5\\ch5-2\\main.cpp",
+              "RelativeDocumentMoniker": "ch5-2\\main.cpp",
+              "ToolTip": "E:\\git-2025-04-03\\Chapter5\\ch5-2\\main.cpp*",
+              "RelativeToolTip": "ch5-2\\main.cpp*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T04:37:53.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\git-2025-04-03\\Chapter5\\ch5-3\\main.cpp",
+              "RelativeDocumentMoniker": "ch5-3\\main.cpp",
+              "ToolTip": "E:\\git-2025-04-03\\Chapter5\\ch5-3\\main.cpp*",
+              "RelativeToolTip": "ch5-3\\main.cpp*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T04:46:03.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

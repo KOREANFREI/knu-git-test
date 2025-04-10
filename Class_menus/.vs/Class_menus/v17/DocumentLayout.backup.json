@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git-2025-04-03\\Class_menus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E2307-2896-4FF1-8A9E-557D862FDCD9}|Class_menus\\Class_menus.vcxproj|E:\\git-2025-04-03\\Class_menus\\Class_menus\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C78E2307-2896-4FF1-8A9E-557D862FDCD9}|Class_menus\\Class_menus.vcxproj|solutionrelative:Class_menus\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E2307-2896-4FF1-8A9E-557D862FDCD9}|Class_menus\\Class_menus.vcxproj|E:\\git-2025-04-03\\Class_menus\\Class_menus\\header.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C78E2307-2896-4FF1-8A9E-557D862FDCD9}|Class_menus\\Class_menus.vcxproj|solutionrelative:Class_menus\\header.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E2307-2896-4FF1-8A9E-557D862FDCD9}|Class_menus\\Class_menus.vcxproj|E:\\git-2025-04-03\\Class_menus\\Class_menus\\utility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C78E2307-2896-4FF1-8A9E-557D862FDCD9}|Class_menus\\Class_menus.vcxproj|solutionrelative:Class_menus\\utility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E2307-2896-4FF1-8A9E-557D862FDCD9}|Class_menus\\Class_menus.vcxproj|E:\\git-2025-04-03\\Class_menus\\Class_menus\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C78E2307-2896-4FF1-8A9E-557D862FDCD9}|Class_menus\\Class_menus.vcxproj|solutionrelative:Class_menus\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 547,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "utility.cpp",
+              "DocumentMoniker": "E:\\git-2025-04-03\\Class_menus\\Class_menus\\utility.cpp",
+              "RelativeDocumentMoniker": "Class_menus\\utility.cpp",
+              "ToolTip": "E:\\git-2025-04-03\\Class_menus\\Class_menus\\utility.cpp",
+              "RelativeToolTip": "Class_menus\\utility.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T05:41:12.577Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "header.h",
+              "DocumentMoniker": "E:\\git-2025-04-03\\Class_menus\\Class_menus\\header.h",
+              "RelativeDocumentMoniker": "Class_menus\\header.h",
+              "ToolTip": "E:\\git-2025-04-03\\Class_menus\\Class_menus\\header.h",
+              "RelativeToolTip": "Class_menus\\header.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T05:53:29.828Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "header.cpp",
+              "DocumentMoniker": "E:\\git-2025-04-03\\Class_menus\\Class_menus\\header.cpp",
+              "RelativeDocumentMoniker": "Class_menus\\header.cpp",
+              "ToolTip": "E:\\git-2025-04-03\\Class_menus\\Class_menus\\header.cpp",
+              "RelativeToolTip": "Class_menus\\header.cpp",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T05:41:02.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\git-2025-04-03\\Class_menus\\Class_menus\\main.cpp",
+              "RelativeDocumentMoniker": "Class_menus\\main.cpp",
+              "ToolTip": "E:\\git-2025-04-03\\Class_menus\\Class_menus\\main.cpp",
+              "RelativeToolTip": "Class_menus\\main.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T05:32:53.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 23,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
